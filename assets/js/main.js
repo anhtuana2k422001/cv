@@ -103,7 +103,7 @@ var opt = {
   filename:     'CV_HoAnhTuan.pdf',
   image:        { type: 'jpeg', quality: 1 },
   html2canvas:  { scale: 4 },
-  jsPDF:        { unit: 'in', format: 'pdf', orientation: 'portrait' }
+  jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
 };
 
 
